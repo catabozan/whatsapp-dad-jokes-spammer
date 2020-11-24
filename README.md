@@ -1,5 +1,5 @@
 # whatsapp-dad-jokes-spammer
-A bash script that uses a JavaScript function to send dd jokes into whatsapp conversations
+A bash script that uses a JavaScript function anda a bash script to send dad jokes into whatsapp conversations
 
 ## Usage
 1. Open [WhatsApp Web](web.whatsapp.com).
