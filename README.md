@@ -5,7 +5,7 @@ A bash script that uses a JavaScript function to send dad jokes into whatsapp co
 1. Open [WhatsApp Web](web.whatsapp.com).
 2. Get the css selectors of the textarea and send button
 3. Replace the selectors in `whatsapp_msg_sender.js`
-4. Copy the function in `whatsapp_msg_sender.js` and paste it into the developer console
+4. Copy the function in `whatsapp_msg_sender.js` into the developer console
 5. Run `dad_jokes_sender.sh` in terminal and focus the developer console(click on it) so the script can paste in the commands
 6. Enjoy annoying your friends :)
 
